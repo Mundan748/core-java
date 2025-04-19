@@ -1,33 +1,47 @@
-# Core Java
+# Java Practice Programs 🧠☕
 
-This repository contains **Core Java practice programs** designed to help students and beginners strengthen their Java programming fundamentals. The code samples cover important Java concepts including object-oriented programming, data structures, exception handling, multithreading, file I/O, and more.
+This repository contains a variety of **Core Java** programs aimed at improving understanding of basic programming concepts, object-oriented principles, arrays, matrices, and logic-building.
 
----
+## 📂 Contents
 
-## 📚 Topics Covered
+The programs are grouped into different categories:
 
-- ✅ Java Basics (Data Types, Operators, Loops)
-- ✅ Classes and Objects
-- ✅ Inheritance, Polymorphism, Abstraction, Encapsulation
-- ✅ Interfaces and Abstract Classes
-- ✅ Exception Handling
-- ✅ Arrays and Strings
-- ✅ Java Collections Framework (List, Set, Map)
-- ✅ File Handling (FileReader, FileWriter, BufferedReader)
-- ✅ Multithreading and Synchronization
-- ✅ Constructors and Static Keyword
-- ✅ Inner Classes
-- ✅ Method Overloading and Overriding
+### ✅ Basics & Control Statements
+- Print numbers from 1 to 10
+- Sum of natural numbers
+- Prime check
+- Multiplication tables
+- Reversing digits
 
----
+### 🧮 Loops & Conditions
+- Factorial
+- Power of a number
+- Armstrong numbers
+- Fibonacci series
+- Grade calculator
+- Discount/billing systems
 
-## 🧪 Who is this for?
+### 🧑‍🎓 Object-Oriented Programs
+- `Student` class examples
+- `Area` class for rectangle
+- `Mobike` rental logic
 
-- 📘 B.Tech / MCA / BCA students
-- 📗 Beginners learning Java
-- 🧠 Anyone preparing for Java interviews
+### 🔢 Arrays & Matrices
+- Max/min in 1D & 2D arrays
+- Matrix addition, multiplication, transpose
+- Sorting, merge sort
+- Frequency count, duplicates
+- Finding LCM/HCF
 
----
+### 🧠 Algorithmic Exercises
+- Binary to decimal
+- Majority element in array
+- Kth smallest element
+- Longest consecutive sequence
+- Spiral/diagonal/triangle patterns
 
-## 📁 Folder Structure
+## 🚀 How to Run
 
+1. Clone the repository
+   ```bash
+   git clone https://github.com/Mundan748/java-basics-practice.git
